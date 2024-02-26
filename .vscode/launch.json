@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<apitest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "api.java.apitest.com.company.nomeprojeto.Application",
+            "projectName": "apitest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
